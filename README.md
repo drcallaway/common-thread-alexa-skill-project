@@ -4,4 +4,4 @@
 
 https://www.amazon.com/Dustin-R-Callaway-Common-Thread/dp/B07KF61W7T/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1542389039&sr=1-1
 
-Just say "Alexa, play Common Thread" to give it a try!
+Just say "Alexa, open Common Thread" to give it a try!
